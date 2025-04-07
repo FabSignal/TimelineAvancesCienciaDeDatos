@@ -1,6 +1,5 @@
 import streamlit as st
 from streamlit_timeline import timeline
-import json
 
 # use full page width
 st.set_page_config(page_title="Timeline Example", layout="wide")
