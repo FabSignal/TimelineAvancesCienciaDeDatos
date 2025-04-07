@@ -1,0 +1,85 @@
+{
+    "title": {
+      "media": {
+        "url": "",
+        "caption": "Eventos destacados en la Ciencia de Datos (2018–2025)",
+        "credit": ""
+      },
+      "text": {
+        "headline": "Ciencia de Datos<br/> 2018 - 2025",
+        "text": "<p>Cinco hitos relevantes en el desarrollo de la Ciencia de Datos durante los últimos años, incluyendo avances en IA, análisis de datos masivos y nuevas regulaciones.</p>"
+      }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "https://i.postimg.cc/xCjzvs5r/Evento1.png",
+          "caption": "Predicción de morfologías galácticas con machine learning.",
+          "credit": "Imagen generada por IA."
+        },
+        "start_date": {
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Machine Learning en morfología galáctica",
+          "text": "<p>Investigadores entrenan modelos supervisados de ML para clasificar morfologías galácticas usando datos del SDSS y etiquetas de Galaxy Zoo. Se procesan 300,000 galaxias en menos de 24 horas con una validación cruzada superior al 95%.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "URL",
+          "caption": "Modelos predictivos aplicados a la pandemia de COVID-19.",
+          "credit": "Imagen generada por IA."
+        },
+        "start_date": {
+          "year": "2020"
+        },
+        "text": {
+          "headline": "Modelos predictivos durante la pandemia",
+          "text": "<p>La ciencia de datos fue clave para modelar y predecir la evolución del COVID-19, asistiendo en decisiones sanitarias y políticas públicas.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://i.postimg.cc/V6xcQN6z/Chat-GPT-3.png",
+          "caption": "Representación abstracta de un modelo de lenguaje como GPT-3.",
+          "credit": "Imagen generada por IA."
+        },
+        "start_date": {
+          "year": "2021"
+        },
+        "text": {
+          "headline": "GPT-3 y la generación de texto",
+          "text": "<p>OpenAI lanza GPT-3, un modelo de lenguaje con 175 mil millones de parámetros, capaz de generar texto coherente y realizar tareas de lenguaje natural con una calidad sin precedentes.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "URL_DE_LA_IMAGEN_4",
+          "caption": "Monitoreo en tiempo real con datos satelitales.",
+          "credit": "Imagen generada por IA."
+        },
+        "start_date": {
+          "year": "2022"
+        },
+        "text": {
+          "headline": "Análisis automatizado de datos satelitales",
+          "text": "<p>Algoritmos de IA aplicados a datos de Copernicus y GOES permiten detectar fenómenos como incendios y ciclones en tiempo real, mejorando la alerta temprana.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://i.postimg.cc/HsjXVPZF/Chat-GPT-2025.png",
+          "caption": "Debates legislativos globales sobre IA generativa.",
+          "credit": "Imagen generada por IA."
+        },
+        "start_date": {
+          "year": "2025"
+        },
+        "text": {
+          "headline": "Regulaciones sobre IA generativa",
+          "text": "<p>Surgen marcos regulatorios para modelos fundacionales como GPT, Claude y Gemini, enfocados en la privacidad, transparencia y ética del uso de IA.</p>"
+        }
+      }
+    ]
+  }
