@@ -1,85 +1,95 @@
 {
-    "title": {
+  "title": {
+    "media": {
+      "url": "https://i.postimg.cc/fRjJTGnc/Whats-App-Image-2025-04-07-at-13-22-04.jpg",
+      "caption": "Eventos destacados en la Ciencia de Datos (2018–2025)",
+      "credit": "Imagen generada por IA"
+    },
+    "text": {
+      "headline": "Ciencia de Datos<br>2018 - 2025",
+      "text": "Cinco hitos relevantes en el desarrollo de la Ciencia de Datos durante los últimos años, incluyendo avances en IA, análisis de datos masivos y nuevas regulaciones."
+    }
+  },
+  "events": [
+    {
       "media": {
-        "url": "https://i.postimg.cc/fRjJTGnc/Whats-App-Image-2025-04-07-at-13-22-04.jpg",
-        "caption": "Eventos destacados en la Ciencia de Datos (2018–2025)",
-        "credit": ""
+        "url": "https://i.postimg.cc/xCjzvs5r/Evento1.png",
+        "thumbnail": "https://i.postimg.cc/xCjzvs5r/Evento1.png",
+        "caption": "Predicción de morfologías galácticas con machine learning.",
+        "credit": "Imagen generada por IA."
+      },
+      "start_date": {
+        "year": "2018",
+        "display_date": "2018"
       },
       "text": {
-        "headline": "Ciencia de Datos<br/> 2018 - 2025",
-        "text": "<p>Cinco hitos relevantes en el desarrollo de la Ciencia de Datos durante los últimos años, incluyendo avances en IA, análisis de datos masivos y nuevas regulaciones.</p>"
+        "headline": "ML en morfología galáctica",
+        "text": "Investigadores entrenan modelos de ML para clasificar galaxias usando datos del SDSS y etiquetas de Galaxy Zoo.<br>Se procesan 300.000 galaxias en menos de 24 horas con una precisión superior al 95%."
       }
     },
-    "events": [
-      {
-        "media": {
-          "url": "https://i.postimg.cc/xCjzvs5r/Evento1.png",
-          "caption": "Predicción de morfologías galácticas con machine learning.",
-          "credit": "Imagen generada por IA."
-        },
-        "start_date": {
-          "year": "2018"
-        },
-        "text": {
-          "headline": "Machine Learning en morfología galáctica",
-          "text": "<p>Investigadores entrenan modelos supervisados de ML para clasificar morfologías galácticas usando datos del SDSS y etiquetas de Galaxy Zoo. Se procesan 300,000 galaxias en menos de 24 horas con una validación cruzada superior al 95%.</p>"
-        }
+    {
+      "media": {
+        "url": "https://i.postimg.cc/26vybyVK/Chat-GPT-Image-4-abr-2025-06-23-20-p-m.png",
+        "thumbnail": "https://i.postimg.cc/26vybyVK/Chat-GPT-Image-4-abr-2025-06-23-20-p-m.png",
+        "caption": "Modelos predictivos aplicados a la pandemia de COVID-19.",
+        "credit": "Imagen generada por IA."
       },
-      {
-        "media": {
-          "url": "https://i.postimg.cc/26vybyVK/Chat-GPT-Image-4-abr-2025-06-23-20-p-m.png",
-          "caption": "Modelos predictivos aplicados a la pandemia de COVID-19.",
-          "credit": "Imagen generada por IA."
-        },
-        "start_date": {
-          "year": "2020"
-        },
-        "text": {
-          "headline": "Modelos predictivos durante la pandemia",
-          "text": "<p>La ciencia de datos fue clave para modelar y predecir la evolución del COVID-19, asistiendo en decisiones sanitarias y políticas públicas.</p>"
-        }
+      "start_date": {
+        "year": "2020",
+        "display_date": "2020"
       },
-      {
-        "media": {
-          "url": "https://i.postimg.cc/V6xcQN6z/Chat-GPT-3.png",
-          "caption": "Representación abstracta de un modelo de lenguaje como GPT-3.",
-          "credit": "Imagen generada por IA."
-        },
-        "start_date": {
-          "year": "2021"
-        },
-        "text": {
-          "headline": "GPT-3 y la generación de texto",
-          "text": "<p>OpenAI lanza GPT-3, un modelo de lenguaje con 175 mil millones de parámetros, capaz de generar texto coherente y realizar tareas de lenguaje natural con una calidad sin precedentes.</p>"
-        }
-      },
-      {
-        "media": {
-          "url": "https://i.postimg.cc/v8xZpNt3/image2.png",
-          "caption": "Monitoreo en tiempo real con datos satelitales.",
-          "credit": "Imagen generada por IA."
-        },
-        "start_date": {
-          "year": "2022"
-        },
-        "text": {
-          "headline": "Análisis automatizado de datos satelitales",
-          "text": "<p>Algoritmos de IA aplicados a datos de Copernicus y GOES permiten detectar fenómenos como incendios y ciclones en tiempo real, mejorando la alerta temprana.</p>"
-        }
-      },
-      {
-        "media": {
-          "url": "https://i.postimg.cc/HsjXVPZF/Chat-GPT-2025.png",
-          "caption": "Debates legislativos globales sobre IA generativa.",
-          "credit": "Imagen generada por IA."
-        },
-        "start_date": {
-          "year": "2025"
-        },
-        "text": {
-          "headline": "Regulaciones sobre IA generativa",
-          "text": "<p>Surgen marcos regulatorios para modelos fundacionales como GPT, Claude y Gemini, enfocados en la privacidad, transparencia y ética del uso de IA.</p>"
-        }
+      "text": {
+        "headline": "IA en la pandemia",
+        "text": "La ciencia de datos fue clave para modelar y predecir la evolución del COVID-19,<br>asistiendo en decisiones sanitarias y políticas públicas."
       }
-    ]
-  }
+    },
+    {
+      "media": {
+        "url": "https://i.postimg.cc/V6xcQN6z/Chat-GPT-3.png",
+        "thumbnail": "https://i.postimg.cc/V6xcQN6z/Chat-GPT-3.png",
+        "caption": "Representación abstracta de un modelo de lenguaje como GPT-3.",
+        "credit": "Imagen generada por IA."
+      },
+      "start_date": {
+        "year": "2021",
+        "display_date": "2021"
+      },
+      "text": {
+        "headline": "GPT-3: revolución del lenguaje",
+        "text": "OpenAI lanza GPT-3, un modelo con 175 mil millones de parámetros.<br>Puede generar texto coherente y realizar tareas complejas de lenguaje natural."
+      }
+    },
+    {
+      "media": {
+        "url": "https://i.postimg.cc/v8xZpNt3/image2.png",
+        "thumbnail": "https://i.postimg.cc/v8xZpNt3/image2.png",
+        "caption": "Monitoreo en tiempo real con datos satelitales.",
+        "credit": "Imagen generada por IA."
+      },
+      "start_date": {
+        "year": "2022",
+        "display_date": "2022"
+      },
+      "text": {
+        "headline": "IA y datos satelitales",
+        "text": "Algoritmos aplicados a datos de Copernicus y GOES permiten detectar incendios y ciclones en tiempo real.<br>Mejora la alerta temprana y la prevención."
+      }
+    },
+    {
+      "media": {
+        "url": "https://i.postimg.cc/HsjXVPZF/Chat-GPT-2025.png",
+        "thumbnail": "https://i.postimg.cc/HsjXVPZF/Chat-GPT-2025.png",
+        "caption": "Debates legislativos globales sobre IA generativa.",
+        "credit": "Imagen generada por IA."
+      },
+      "start_date": {
+        "year": "2025",
+        "display_date": "2025"
+      },
+      "text": {
+        "headline": "Regulación de IA generativa",
+        "text": "Surgen marcos legales para modelos como GPT, Claude y Gemini,<br>centrados en privacidad, transparencia y ética en el uso de IA."
+      }
+    }
+  ]
+}
